@@ -1,5 +1,5 @@
 type LinkShortenerResponse = {
-  unique_id: string;
+  id: string;
   short_url: string;
   qrcode_url: string;
 };
